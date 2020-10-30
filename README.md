@@ -18,6 +18,8 @@ For this project, we will be using data primarily from FRED, and if applicable, 
 
 FRED, also known as the Federal Reserve Economic Data, is a leading database of economic information and statistics. For this project, we needed sources that could be converted to both raw numerical results and percentage change from the previous year. FRED makes it possible to see the same graph in multiple different ways.
 
+Key Variables
+
 This project will have four key variables: annual nominal GDP growth, annual family income growth, annual inflation, and annual cost in housing. All four will be in % increase or % decrease. The graph will depict a 0 at the middle, with positive and negative figures that will be used to compare rises and declines between two or more variables over the years. 
 
 Nominal GDP is considered by FRED to be the total value of the goods and services produced by labor and property located in the United States. To summarize, this is simply nominal GDP.
